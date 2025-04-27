@@ -1,6 +1,6 @@
 (function() {
     // ID do produto que vai disparar a troca da logo
-    const idQueTrocaLogo = "10062224163108"; // <- Bota aqui o ID do optionsIds certo, COMO STRING!
+    const idQueTrocaLogo = "10051103555876"; // <- Bota aqui o ID do optionsIds certo, COMO STRING!
 
     // URL da nova logo
     const novaLogoUrl = 'https://images.yampi.me/assets/stores/avalanchedeofertas/uploads/brands/680ab566217b8.png'; // <- Bota a URL certinha da nova logo
